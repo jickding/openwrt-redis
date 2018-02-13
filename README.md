@@ -20,7 +20,7 @@ There was a typo in the ```/etc/init.d/redis```, but now is fixed.
 
 ### Tested on Linksys WRT
 
-http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/arm_cortex-a9_vfpv3/redis
+http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/arm_cortex-a9_vfpv3/redis/
 
 ```text
 src/gz reboot_redis http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/arm_cortex-a9_vfpv3/redis
@@ -28,7 +28,7 @@ src/gz reboot_redis http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/arm_cortex
 
 ### Tested on D-Link DIR 860L B1
 
-http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/mipsel_24kc/redis
+http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/mipsel_24kc/redis/
 
 ```text
 src/gz reboot_redis http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/mipsel_24kc/redis
