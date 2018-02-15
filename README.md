@@ -2,7 +2,7 @@
 
   [![Build Status](https://travis-ci.org/patrikx3/openwrt-redis.svg?branch=master)](https://travis-ci.org/patrikx3/openwrt-redis)  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/patrikx3/openwrt-redis/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/openwrt-redis/?branch=master)  [![Code Coverage](https://scrutinizer-ci.com/g/patrikx3/openwrt-redis/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/openwrt-redis/?branch=master) 
 
-# The OpenWRT Stable Redis 4 package 
+# The OpenWrt Stable Redis 4 package 
 
 
 
@@ -56,7 +56,7 @@ src/gz reboot_redis http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/arm_cortex
 
 ## The router service
 
-Please, where you can find it in  [OpenWRT-INSOMNIA](https://pages.corifeus.com/openwrt-insomnia), of course it includes ```init.d``` service as well.
+Please, where you can find it in  [OPENWRT-INSOMNIA](https://pages.corifeus.com/openwrt-insomnia), of course it includes ```init.d``` service as well.
 
 ```bash
 /etc/init.d/redis stop|start
@@ -90,7 +90,7 @@ make V=s
 This is based on:
 https://github.com/chrisber/openwrt-ipkg-redis and https://github.com/pdf/openwrt-14.07-x86_64-packages/tree/master/net/redis .
 
-It will be in all of my [OpenWRT-INSOMNIA](https://pages.corifeus.com/openwrt-insomnia).
+It will be in all of my [OPENWRT-INSOMNIA](https://pages.corifeus.com/openwrt-insomnia).
 
 ### CPU type
 Right now, I only tested on ARM (Linksys WRT1200ACS, Linksys 3200ACM) and D-Link RAMIPS since it is 4.0.8
@@ -104,7 +104,7 @@ http://download.redis.io/releases/
 
 ---
 
-[**P3X-OPENWRT-REDIS**](https://pages.corifeus.com/openwrt-redis) Build v4.0.134-7 
+[**P3X-OPENWRT-REDIS**](https://pages.corifeus.com/openwrt-redis) Build v4.0.136-11 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=LFRV89WPRMMVE&lc=HU&item_name=Patrik%20Laszlo&item_number=patrikx3&currency_code=HUF&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
