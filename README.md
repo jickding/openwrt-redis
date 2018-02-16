@@ -36,10 +36,10 @@ src/gz reboot_redis http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/mipsel_24k
 
 ### RPI-3
 
-http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/arm_cortex-a53_neon-vfpv4/redis/
+http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/aarch64_cortex-a53/redis/
 
 ```text
-src/gz reboot_redis http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/arm_cortex-a53_neon-vfpv4/redis/
+src/gz reboot_redis http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/aarch64_cortex-a53/redis/
 ```
 
 
@@ -52,7 +52,7 @@ src/gz reboot_redis http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/arm_cortex
   * https://cdn.corifeus.com/openwrt/SNAPSHOT/packages/mipsel_24kc/redis/
 
 * RPI-3 
-  * http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/arm_cortex-a53_neon-vfpv4/redis/
+  * http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/aarch64_cortex-a53/redis/
 
 ## The router service
 
@@ -104,7 +104,7 @@ http://download.redis.io/releases/
 
 ---
 
-[**P3X-OPENWRT-REDIS**](https://pages.corifeus.com/openwrt-redis) Build v4.0.136-11 
+[**P3X-OPENWRT-REDIS**](https://pages.corifeus.com/openwrt-redis) Build v4.0.140-14 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=LFRV89WPRMMVE&lc=HU&item_name=Patrik%20Laszlo&item_number=patrikx3&currency_code=HUF&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
