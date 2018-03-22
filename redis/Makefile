@@ -2,7 +2,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=redis
 PKG_VERSION:=4.0.8
-PKG_RELEASE:=1
+PKG_RELEASE:=2
 
 # rm -rf ./bin/packages/*/redis* -rf
 # rm -rf ./build_dir/*/redis*
@@ -82,7 +82,7 @@ define Package/redis/install
 	$(INSTALL_BIN) $(PKG_BUILD_DIR)/src/redis-check-aof $(1)/usr/bin/
 	$(INSTALL_BIN) $(PKG_BUILD_DIR)/src/redis-benchmark $(1)/usr/bin/
 	$(INSTALL_DIR) $(1)/etc/init.d
-	$(INSTALL_BIN) /build/source/feeds/redis/files/redis.init $(1)/etc/init.d/redis
+	$(INSTALL_BIN) ./files/redis.init $(1)/etc/init.d/redis
 	$(INSTALL_DIR) $(1)/etc
 	$(INSTALL_DATA) $(PKG_BUILD_DIR)/redis.conf $(1)/etc
 endef
