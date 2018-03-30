@@ -1,8 +1,8 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=redis
-PKG_VERSION:=4.0.8
-PKG_RELEASE:=2
+PKG_VERSION:=4.0.9
+PKG_RELEASE:=1
 
 # rm -rf ./bin/packages/*/redis* -rf
 # rm -rf ./build_dir/*/redis*
