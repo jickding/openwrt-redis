@@ -9,7 +9,7 @@
         "code": "Tempo"
     },
     "version": "4.0.179-55",
-    "description": "The OpenWrt Stable Redis 4 package ",
+    "description": "📡 The OpenWrt Stable Redis 4 package ",
     "main": "src/index.js",
     "directories": {
         "test": "test"

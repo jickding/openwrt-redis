@@ -2,7 +2,7 @@
 
   [![Build Status](https://travis-ci.org/patrikx3/openwrt-redis.svg?branch=master)](https://travis-ci.org/patrikx3/openwrt-redis)  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/patrikx3/openwrt-redis/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/openwrt-redis/?branch=master)  [![Code Coverage](https://scrutinizer-ci.com/g/patrikx3/openwrt-redis/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/openwrt-redis/?branch=master) 
 
-# The OpenWrt Stable Redis 4 package 
+# 📡 The OpenWrt Stable Redis 4 package 
 
 
 
