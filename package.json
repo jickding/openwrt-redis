@@ -8,7 +8,7 @@
         "icon": "fas fa-database",
         "code": "Tempo"
     },
-    "version": "4.0.181-60",
+    "version": "4.0.183-61",
     "description": "📡 The OpenWrt Stable Redis 4 package ",
     "main": "src/index.js",
     "directories": {
@@ -31,7 +31,7 @@
     "author": "Patrik Laszlo <alabard@gmail.com>",
     "license": "MIT",
     "devDependencies": {
-        "corifeus-builder": "^1.7.1328-363"
+        "corifeus-builder": "^1.7.1332-365"
     },
     "engines": {
         "node": ">=8.9.0"
