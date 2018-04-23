@@ -91,7 +91,7 @@ https://github.com/chrisber/openwrt-ipkg-redis and https://github.com/pdf/openwr
 It will be in all of my [OPENWRT-INSOMNIA](https://pages.corifeus.com/openwrt-insomnia).
 
 ### CPU type
-Right now, I only tested on ARM (Linksys WRT1200ACS, Linksys 3200ACM) and D-Link RAMIPS since it is 4.0.8
+Right now, I only tested on ARM (Linksys WRT1200ACS, Linksys 3200ACM) and D-Link RAMIPS since it is 4.0.9
 
 # Built from
 
