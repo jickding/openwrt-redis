@@ -2,7 +2,7 @@
 
   [![Build Status](https://travis-ci.org/patrikx3/openwrt-redis.svg?branch=master)](https://travis-ci.org/patrikx3/openwrt-redis)  [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/patrikx3/openwrt-redis/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/openwrt-redis/?branch=master)  [![Code Coverage](https://scrutinizer-ci.com/g/patrikx3/openwrt-redis/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/patrikx3/openwrt-redis/?branch=master) 
 
-# 📡 The OpenWrt Stable Redis stable version package 
+# 📡 The OpenWrt Redis stable version package 
 
 
 
@@ -102,7 +102,7 @@ http://download.redis.io/releases/
 
 ---
 
-[**P3X-OPENWRT-REDIS**](https://pages.corifeus.com/openwrt-redis) Build v4.0.183-61 
+[**P3X-OPENWRT-REDIS**](https://pages.corifeus.com/openwrt-redis) Build v4.0.187-76 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
