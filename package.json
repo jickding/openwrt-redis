@@ -10,7 +10,7 @@
         "opencollective": false,
         "reponame": "openwrt-redis"
     },
-    "version": "4.0.199-82",
+    "version": "4.0.202-83",
     "description": "📡 The OpenWrt Redis stable version package ",
     "main": "src/index.js",
     "directories": {
