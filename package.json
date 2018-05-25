@@ -11,7 +11,7 @@
         "reponame": "openwrt-redis",
         "build": true
     },
-    "version": "4.0.211-90",
+    "version": "4.0.213-92",
     "description": "📡 The OpenWrt Redis stable version package ",
     "main": "src/index.js",
     "directories": {
@@ -34,7 +34,7 @@
     "author": "Patrik Laszlo <alabard@gmail.com>",
     "license": "MIT",
     "devDependencies": {
-        "corifeus-builder": "^1.8.24-423"
+        "corifeus-builder": "^1.8.27-426"
     },
     "engines": {
         "node": ">=10.2.1"
