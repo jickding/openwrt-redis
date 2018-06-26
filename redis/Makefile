@@ -1,7 +1,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=redis
-PKG_VERSION:=4.0.9
+PKG_VERSION:=4.0.10
 PKG_RELEASE:=1
 
 # rm -rf ./bin/packages/*/redis* -rf
@@ -19,7 +19,7 @@ PKG_RELEASE:=1
 # cat package/feeds/redis/redis/Makefile | less
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
-PKG_HASH:=df4f73bc318e2f9ffb2d169a922dec57ec7c73dd07bccf875695dbeecd5ec510
+PKG_HASH:=1DB67435A704F8D18AEC9B9637B373C34AA233D65B6E174BDAC4C1B161F38CA4
 PKG_SOURCE_URL:=http://download.redis.io/releases/
 PKG_MAINTAINER:=Patrik Laszlo <alabard@gmail.com>
 PKG_LICENSE:=MIT
