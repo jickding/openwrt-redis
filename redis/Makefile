@@ -19,7 +19,7 @@ PKG_RELEASE:=1
 # cat package/feeds/redis/redis/Makefile | less
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
-#PKG_HASH:=1DB67435A704F8D18AEC9B9637B373C34AA233D65B6E174BDAC4C1B161F38CA4
+PKG_HASH:=1db67435a704f8d18aec9b9637b373c34aa233d65b6e174bdac4c1b161f38ca4
 PKG_SOURCE_URL:=http://download.redis.io/releases/
 PKG_MAINTAINER:=Patrik Laszlo <alabard@gmail.com>
 PKG_LICENSE:=MIT
