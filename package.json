@@ -4,14 +4,14 @@
         "prefix": "p3x-",
         "type": "openwrt",
         "cdn": true,
-        "nodejs": "v10.2.1",
+        "nodejs": "v10.5.0",
         "icon": "fas fa-database",
         "code": "Tempo",
         "opencollective": false,
         "reponame": "openwrt-redis",
         "build": true
     },
-    "version": "4.0.213-92",
+    "version": "4.0.214-98",
     "description": "📡 The OpenWrt Redis stable version package ",
     "main": "src/index.js",
     "directories": {
