@@ -4,14 +4,14 @@
         "prefix": "p3x-",
         "type": "openwrt",
         "cdn": true,
-        "nodejs": "v10.6.0",
+        "nodejs": "v10.8.0",
         "icon": "fas fa-database",
         "code": "Tempo",
         "opencollective": false,
         "reponame": "openwrt-redis",
         "build": true
     },
-    "version": "4.0.218-105",
+    "version": "4.0.221-108",
     "description": "📡 The OpenWrt Redis stable version package ",
     "main": "src/index.js",
     "directories": {
@@ -34,7 +34,7 @@
     "author": "Patrik Laszlo <alabard@gmail.com>",
     "license": "MIT",
     "devDependencies": {
-        "corifeus-builder": "^1.8.43-441"
+        "corifeus-builder": "^1.9.6-451"
     },
     "engines": {
         "node": ">=10.5.0"

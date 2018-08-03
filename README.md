@@ -1,12 +1,10 @@
 [//]: #@corifeus-header
 
-  [![Build Status](https://travis-ci.org/patrikx3/openwrt-redis.svg?branch=master)](https://travis-ci.org/patrikx3/openwrt-redis) 
+  [![Build Status](https://travis-ci.org/patrikx3/openwrt-redis.svg?branch=master)](https://travis-ci.org/patrikx3/openwrt-redis) [![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m780749701-41bcade28c1ea8154eda7cca.svg)](https://uptimerobot.patrikx3.com/)
 
 # 📡 The OpenWrt Redis stable version package 
 
 
-
-## The latest OpenWrt is highly EXPERIMENTAL !!!
                     
  
                         
@@ -26,14 +24,6 @@ http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/arm_cortex-a9_vfpv3/redis/
 src/gz reboot_redis http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/arm_cortex-a9_vfpv3/redis
 ```
 
-### Tested on D-Link DIR 860L B1
-
-http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/mipsel_24kc/redis/
-
-```text
-src/gz reboot_redis http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/mipsel_24kc/redis
-```
-
 ### RPI-3
 
 http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/aarch64_cortex-a53/redis/
@@ -47,9 +37,6 @@ src/gz reboot_redis http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/aarch64_co
   
 * Like Linksys WRT ARM ```atomic instructions```
   * https://cdn.corifeus.com/openwrt/SNAPSHOT/packages/arm_cortex-a9_vfpv3/redis/  
-
-* Like D-Link RAMIPS ```pthreads```
-  * https://cdn.corifeus.com/openwrt/SNAPSHOT/packages/mipsel_24kc/redis/
 
 * RPI-3 
   * http://cdn.corifeus.com/openwrt/SNAPSHOT/packages/aarch64_cortex-a53/redis/
@@ -91,7 +78,7 @@ https://github.com/chrisber/openwrt-ipkg-redis and https://github.com/pdf/openwr
 It will be in all of my [OPENWRT-INSOMNIA](https://pages.corifeus.com/openwrt-insomnia).
 
 ### CPU type
-Right now, I only tested on ARM (Linksys WRT1200ACS, Linksys 3200ACM) and D-Link RAMIPS since it is 4.0.9
+Right now, I only tested on ARM (Linksys WRT1200ACS, Linksys 3200ACM) since it is 4.0.9
 
 # Built from
 
@@ -102,7 +89,7 @@ http://download.redis.io/releases/
 
 ---
 
-[**P3X-OPENWRT-REDIS**](https://pages.corifeus.com/openwrt-redis) Build v4.0.218-105 
+[**P3X-OPENWRT-REDIS**](https://pages.corifeus.com/openwrt-redis) Build v4.0.221-108 
 
 [![Like Corifeus @ Facebook](https://img.shields.io/badge/LIKE-Corifeus-3b5998.svg)](https://www.facebook.com/corifeus.software) [![Donate for Corifeus / P3X](https://img.shields.io/badge/Donate-Corifeus-003087.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QZVM4V6HVZJW6)  [![Contact Corifeus / P3X](https://img.shields.io/badge/Contact-P3X-ff9900.svg)](https://www.patrikx3.com/en/front/contact) 
 
